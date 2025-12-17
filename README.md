@@ -1,4 +1,8 @@
-# 5-Day AI Agents Intensive — Kaggle Learn Guide
+  # 5-Day AI Agents Intensive — Kaggle Learn Guide
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/47206d84-f695-496f-a675-d6305ef8f464" alt="image" width="500" height="500" /> </p>
+
+
 
 [![Course: 5-Day AI Agents Intensive](https://img.shields.io/badge/course-AI%20Agents%20Intensive-blue)](#)
 [![Self-paced on Kaggle](https://img.shields.io/badge/platform-Kaggle-yellow)](#)
